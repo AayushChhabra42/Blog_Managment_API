@@ -1,4 +1,3 @@
 # BLOG_MANAGEMENT_SYSTEM
 
-This is a project I developed for my dbms class.The project uses a mariadb/mysql backend and is connected to fast api.
-To facilitate authentication, this project uses JWT tokens.
+This project marked my entry into backend development using the FASTAPI framework in Python. By implementing CRUD functionalities for a blog-based website, I showcased my skills in server-side logic and database management with FastAPI and MySQL. The inclusion of JWT authentication added a layer of security to the application.
